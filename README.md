@@ -1,6 +1,41 @@
-![대체 텍스트(Alternative Text)](https://picsum.photos/1000/400 "링크 설명(Title)")
+안녕하세요<br>
+반갑습니다.
 
-[![구글 검색 고양이 이미지]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkr.pinterest.com%2Fa94956902%2F%25EA%25B3%25A0%25EC%2596%2591%25EC%259D%25B4-%25EC%2582%25AC%25EC%25A7%2584%2F&psig=AOvVaw0LnpkaPgg9S9nh-2n7BnLm&ust=1748916356187000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiWwKXT0Y0DFQAAAAAdAAAAABAE)
+---
+
+***
+
+
+
+마크다운에서 <u>밑줄</u>은 지원하지 않습니다.
+
+<img width="150" src="http://gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="마크다운은 이미지의 크기를 지정할 수 없으므로, 크기 지정을 위해서는 <img> 태그를 사용해야 합니다.">
+
+![Prunus](http://www.gstatic.com/webp/gallery/4.jpg)
+
+BREAK!
+
+> 인용문을 작성하세요!
+>> 중첩된 인용문(nested blockquote)을 만들 수 있습니다.
+>>> 중중첩 인용문 1
+>>> 중중첩 인용문 2
+>>> 중중첩 인용문 3
+
+표 작성
+|헤더1|헤더2|헤더3|
+|---|---|---|
+|셀값1|셀값2|셀값3|
+|셀값4|셀값5|셀값6|
+
+| 값 | 의미 | 기본값 |
+|---|:---:|---:|
+| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `relative` | 요소 자신을 기준으로 배치 |  |
+| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 |  |
+| `fixed` | 브라우저 창을 기준으로 배치 |  |
+| `sticky` | 스크롤 영역 기준으로 배치 |  |
+
+`코드강조`입니다.
 
 # test-repository1
 테스트용 레포지토리 1
